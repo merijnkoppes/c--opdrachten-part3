@@ -1,0 +1,15 @@
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\bin\Debug\net6.0\opdrachtenpart3.exe
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\bin\Debug\net6.0\opdrachtenpart3.deps.json
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\bin\Debug\net6.0\opdrachtenpart3.runtimeconfig.json
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\bin\Debug\net6.0\opdrachtenpart3.dll
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\bin\Debug\net6.0\opdrachtenpart3.pdb
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\obj\Debug\net6.0\opdrachtenpart3.csproj.AssemblyReference.cache
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\obj\Debug\net6.0\opdrachtenpart3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\obj\Debug\net6.0\opdrachtenpart3.AssemblyInfoInputs.cache
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\obj\Debug\net6.0\opdrachtenpart3.AssemblyInfo.cs
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\obj\Debug\net6.0\opdrachtenpart3.csproj.CoreCompileInputs.cache
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\obj\Debug\net6.0\opdrachtenpart3.dll
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\obj\Debug\net6.0\refint\opdrachtenpart3.dll
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\obj\Debug\net6.0\opdrachtenpart3.pdb
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\obj\Debug\net6.0\opdrachtenpart3.genruntimeconfig.cache
+C:\Users\koppe\source\repos\merijnkoppes\c--opdrachten-part3\opdrachtenpart3\obj\Debug\net6.0\ref\opdrachtenpart3.dll
