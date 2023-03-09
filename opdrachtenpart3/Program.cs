@@ -34,7 +34,7 @@ public class Opdrachtenpart2
             }
         }
 
-        Console.WriteLine("De naam van de oudste persoon is " + oldestName);
+        Console.WriteLine("De naam van het oudste persoon is " + oldestName);
     }
 
 }
